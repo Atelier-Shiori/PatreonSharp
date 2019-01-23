@@ -1,0 +1,6 @@
+C:\Users\Kafuu Chino\source\repos\PatreonSharp\PatreonSharp\bin\Debug\netcoreapp2.1\PatreonSharp.deps.json
+C:\Users\Kafuu Chino\source\repos\PatreonSharp\PatreonSharp\bin\Debug\netcoreapp2.1\PatreonSharp.dll
+C:\Users\Kafuu Chino\source\repos\PatreonSharp\PatreonSharp\obj\Debug\netcoreapp2.1\PatreonSharp.csprojAssemblyReference.cache
+C:\Users\Kafuu Chino\source\repos\PatreonSharp\PatreonSharp\obj\Debug\netcoreapp2.1\PatreonSharp.csproj.CoreCompileInputs.cache
+C:\Users\Kafuu Chino\source\repos\PatreonSharp\PatreonSharp\obj\Debug\netcoreapp2.1\PatreonSharp.AssemblyInfoInputs.cache
+C:\Users\Kafuu Chino\source\repos\PatreonSharp\PatreonSharp\obj\Debug\netcoreapp2.1\PatreonSharp.AssemblyInfo.cs
